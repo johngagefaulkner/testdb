@@ -4,7 +4,7 @@
       "string": {}
     },
     "avatarUrl": {
-      "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
+      "regexp": "https://i\\.pravatar\\.cc/512\\?u=[0-9]{5}"
     },
     "statusMessage": {
       "string": [
