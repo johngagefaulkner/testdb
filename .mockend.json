@@ -8,8 +8,9 @@
     },
     "statusMessage": {
       "string": [
-        "working from home",
-        "watching Netflix"
+        "working from home 🥳",
+        "watching Netflix 🍿",
+        "still going to the office 🥲"
       ]
     },
     "email": {
@@ -25,6 +26,9 @@
       }
     },
     "isPublic": {
+      "boolean": {}
+    },
+    "isOnline": {
       "boolean": {}
     }
   }
